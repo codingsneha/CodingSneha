@@ -4,11 +4,15 @@
 
 ### 🎓 The goal is to be rediculously over-educated
 - **Sikkim Manipal University, Sikkim, India**
-  - A penultimate year student 🚀
+  - A final year student 🚀
   - *Bachelors of Technology in Computer Science and Engineering*
   - CGPA: 9
 
 ### 💼 Coding Experiences
+#### Ubiquitous Networks Lab
+- *AI/ML Intern (May 2024 - July 2024)*
+  - 🌐 [Project Link](https://github.com/codingsneha/mmPhase)
+
 #### Machine Learning Summer Intern
 - *Indian Statistical Institute, Kolkata (May 2023 - July 2023)*
   - 🏆 Special Mention for the project: Fine-Grain Vehicle Detection & Recognition using YOLO
@@ -16,7 +20,7 @@
 <div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJ4MmJ5bmh1NHJjdGdzYnZ0eTY3amhlbjh3ZGl4NmhuMXZtOTh6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hnJgISnMHGK5eMXW7p/giphy.gif" width="300"></div>
 
 #### Google Developer Student Club GDSC SMIT
-- *AI/ML Co-Lead (August 2023 - Present)*
+- *AI/ML Co-Lead (August 2023 - August 2024)*
   - 🌐 Completed 30 Days of Google Cloud - deployed apps to Kubernetes and engineered data on Google Cloud Platform.
   - 💻 Integrated Machine Learning APIs and explored various ML models.
   - 🌱 Hosted AI/ML Hands-on Workshops for the GDSC Community.
